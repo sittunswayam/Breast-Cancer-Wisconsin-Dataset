@@ -1,6 +1,6 @@
 # Breast-Cancer-Wisconsin-Dataset
 
-Extra Credit Assignment for CSE 6040 @ GeorgiaTech - Exploration and Classification using Breast Cancer Data
+Extra Credit Assignment for CSE 6040 @ GeorgiaTech - Exploration and Classification of Breast Cancer Data
 
 ### Plot of 1st 3 Principal Components showing very good separation between classes
 ![3PCs](https://github.com/sittunswayam/Breast-Cancer-Wisconsin-Dataset/blob/main/3_PCs.png?raw=true)
