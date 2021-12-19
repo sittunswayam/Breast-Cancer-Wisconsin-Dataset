@@ -2,6 +2,9 @@
 
 Extra Credit Assignment for CSE 6040 @ GeorgiaTech - Exploration and Classification using Breast Cancer Data
 
+### Plot of 1st 3 Principal Components showing very good separation between classes
+!(3PCs)[https://github.com/sittunswayam/Breast-Cancer-Wisconsin-Dataset/blob/main/3_PCs.png?raw=true]
+
 ### Dataset Description
 This dataset was downloaded from the UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
@@ -35,4 +38,3 @@ H. Bland Chromatin - value from 1-10 <br/>
 I. Normal Nucleoli - value from 1-10 <br/>
 J. Mitoses - value from 1-10 <br/>
 K. Class - 2 for benign, 4 for malignant <br/>
-
