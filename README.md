@@ -1,4 +1,4 @@
-# Breast-Cancer-Wisconsin-Dataset
+# Breast Cancer Wisconsin Dataset
 
 Extra Credit Assignment for CSE 6040 @ GeorgiaTech - Exploration and Classification of Breast Cancer Data
 
